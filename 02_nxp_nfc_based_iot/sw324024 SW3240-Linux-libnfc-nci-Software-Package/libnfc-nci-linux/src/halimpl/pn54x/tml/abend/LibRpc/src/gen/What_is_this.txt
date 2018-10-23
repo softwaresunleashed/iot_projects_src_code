@@ -1,0 +1,6 @@
+
+This folder contains generated sources:
+Do not edit any of these.
+
+The files are generated during SW build.
+There is no need to put them under version control.
